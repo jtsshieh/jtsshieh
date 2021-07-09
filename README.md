@@ -13,10 +13,10 @@ Here are the some of the projects that I am contributing to:
 * 🐦[`Librebird`](https://gitlab.com/rubellite/librebird) - a fully featured mail server with a web app.
   * I am a Co-founder of [Librebird](https://librebird.xyz). along with [@Hiroyuki](https://github.com/WeebHiroyuki).
 
-* 🚢 [`Ship-Dock`](https://github.com/jtsshieh/ship-dock) - a web app for interacting with docker
+* 🚢 [`Ship-Dock`](https://github.com/jtsshieh/ship-dock) - a web app for interacting with docker.
 
 More of my projects on [`my repositories`](https://github.com/jtsshieh?tab=repositories) on GitHub.  
 
 ## 📖 Contact Me
 
-You can reach mainly reach out to my by my discord: [`jtsshieh#6424`](https://discord.com/users/236279900728721409)
+You can reach out to me through discord: [`jtsshieh#6424`](https://discord.com/users/236279900728721409).
