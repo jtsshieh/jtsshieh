@@ -6,15 +6,6 @@ I am a programmer that mainly uses [`Typescript`](https://www.typescriptlang.org
 
 As a web developer, I mainly work with [`Typescript`](https://www.typescriptlang.org/). However I've also worked with [`Spring Boot`](https://spring.io/projects/spring-boot), a [`Java`](https://www.java.com/en/) framework, [`Python`](https://www.python.org/), [`C#`](https://docs.microsoft.com/en-us/dotnet/csharp/), [`Go`](https://golang.org/), and of course HTML and CSS for basic frontend development. I taught myself everything I know and can pick up new languages or frameworks pretty quickly. 
 
-## 💻 Current Projects
-
-Here are the some of the projects that I am contributing to:
-
-* 🐦[`Librebird`](https://gitlab.com/rubellite/librebird) - a fully featured mail server with a web app.
-  * I am a Co-founder of [Librebird](https://librebird.xyz). along with [@Hiroyuki](https://github.com/WeebHiroyuki).
-
-* 🚢 [`Ship-Dock`](https://github.com/jtsshieh/ship-dock) - a web app for interacting with docker.
-
 More of my projects on [`my repositories`](https://github.com/jtsshieh?tab=repositories) on GitHub.  
 
 ## 📖 Contact Me
